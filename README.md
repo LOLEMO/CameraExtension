@@ -1,4 +1,4 @@
-# Canera Extension for MIT App Inventor 2 📷
+# Camera Extension for MIT App Inventor 2 📷
 
 This extension provides access to camera functionality in MIT App Inventor 2 using the Camera2 API. With this extension, you can open the camera, start a camera preview, and stop the preview. 
 
